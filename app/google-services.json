@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466145968283",
+    "firebase_url": "https://hospital-management-sem8-default-rtdb.firebaseio.com",
+    "project_id": "hospital-management-sem8",
+    "storage_bucket": "hospital-management-sem8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466145968283:android:c9c7002ab281e48f49863e",
+        "android_client_info": {
+          "package_name": "com.example.hospital_management_sem8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466145968283-ungtqc03lj2kvoaph3ksi6lvot20rr0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hospital_management_sem8",
+            "certificate_hash": "3a580ed15fa63cb10b8e87de426866ba2b037d04"
+          }
+        },
+        {
+          "client_id": "466145968283-c21duq04668s8o8rcac2ri7tr45c14rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqV-IiU3L69_SGtmGypkZi4BD9ubgIvZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466145968283-c21duq04668s8o8rcac2ri7tr45c14rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "2"
+}

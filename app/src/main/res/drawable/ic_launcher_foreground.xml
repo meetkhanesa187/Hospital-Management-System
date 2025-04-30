@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Example Foreground Icon: A Simple Hospital Cross -->
+    <path
+        android:fillColor="#FFFFFF"
+    android:pathData="M54,12 L66,12 L66,42 L96,42 L96,54 L66,54 L66,84 L54,84 L54,54 L24,54 L24,42 L54,42 Z" />
+</vector>
